@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/benjamin-n-milanzi-95b14b184">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://facebook.com/milanziben](https://web.facebook.com/Ben.N.Milanzi.N0/)">
+  <a href="https://facebook.com/milanziben">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="mailto:benmilanzi8@gmail.com">
